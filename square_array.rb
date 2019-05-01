@@ -7,6 +7,6 @@ end
 
 def square_array_version_two(array)
   array.collect do|n|
-    puts num ** 2
-    num ** 2
+    puts n ** 2
+    n ** 2
 end
